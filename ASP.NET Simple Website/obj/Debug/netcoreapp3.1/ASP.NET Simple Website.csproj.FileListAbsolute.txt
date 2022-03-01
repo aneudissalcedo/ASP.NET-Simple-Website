@@ -1,0 +1,38 @@
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\bin\Debug\netcoreapp3.1\ASP.NET Simple Website.exe
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\bin\Debug\netcoreapp3.1\ASP.NET Simple Website.deps.json
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\bin\Debug\netcoreapp3.1\ASP.NET Simple Website.runtimeconfig.json
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\bin\Debug\netcoreapp3.1\ASP.NET Simple Website.runtimeconfig.dev.json
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\bin\Debug\netcoreapp3.1\ASP.NET Simple Website.dll
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\bin\Debug\netcoreapp3.1\ASP.NET Simple Website.pdb
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\bin\Debug\netcoreapp3.1\ASP.NET Simple Website.Views.dll
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\bin\Debug\netcoreapp3.1\ASP.NET Simple Website.Views.pdb
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\obj\Debug\netcoreapp3.1\ASP.NET Simple Website.csproj.AssemblyReference.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\obj\Debug\netcoreapp3.1\ASP.NET Simple Website.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\obj\Debug\netcoreapp3.1\ASP.NET Simple Website.AssemblyInfoInputs.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\obj\Debug\netcoreapp3.1\ASP.NET Simple Website.AssemblyInfo.cs
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\obj\Debug\netcoreapp3.1\ASP.NET Simple Website.csproj.CoreCompileInputs.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\obj\Debug\netcoreapp3.1\ASP.NET Simple Website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\obj\Debug\netcoreapp3.1\ASP.NET Simple Website.RazorAssemblyInfo.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\obj\Debug\netcoreapp3.1\ASP.NET Simple Website.RazorAssemblyInfo.cs
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Simple Website.StaticWebAssets.Manifest.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Simple Website.StaticWebAssets.xml
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\obj\Debug\netcoreapp3.1\scopedcss\bundle\ASP.NET Simple Website.styles.css
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\obj\Debug\netcoreapp3.1\ASP.NET Simple Website.TagHelpers.input.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\obj\Debug\netcoreapp3.1\ASP.NET Simple Website.TagHelpers.output.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\obj\Debug\netcoreapp3.1\ASP.NET Simple Website.RazorCoreGenerate.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\obj\Debug\netcoreapp3.1\ASP.NET Simple Website.RazorTargetAssemblyInfo.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\obj\Debug\netcoreapp3.1\ASP.NET Simple Website.RazorTargetAssemblyInfo.cs
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\obj\Debug\netcoreapp3.1\ASP.NET Simple Website.Views.pdb
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\obj\Debug\netcoreapp3.1\ASP.NET Simple Website.dll
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\obj\Debug\netcoreapp3.1\ASP.NET Simple Website.pdb
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\obj\Debug\netcoreapp3.1\ASP.NET Simple Website.genruntimeconfig.cache
+C:\Users\Aneudis Salcedo\Documents\Classes\The Tech Academy\Coding\ASP.NET\ASP.NET Simple Website\ASP.NET Simple Website\obj\Debug\netcoreapp3.1\ASP.NET Simple Website.csproj.CopyComplete
